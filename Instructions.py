@@ -16,3 +16,5 @@ print("hello world")
 # In betwwen the two "" we have to type what we nned to have in our output tab and then close the brackets # I use is for comments on the code that you are typing
 #Got IT? Congrats you have done your first python program.
 #This is a work in progress and hence, will be updated everyday.
+#Kori
+print("norweign blue")
