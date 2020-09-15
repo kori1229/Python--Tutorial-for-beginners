@@ -1,2 +1,3 @@
 # Python-instructions-for-newbies
-THis is a python tutorial on github.
+This is a python tutorial on github.
+Open the instructions file for instructions.
